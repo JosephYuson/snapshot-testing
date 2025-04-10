@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Dashboard Snapshot matches the snapshot 1`] = `
+<DocumentFragment>
+  <div
+    style="text-align: center;"
+  >
+    <h1>
+      test
+    </h1>
+  </div>
+</DocumentFragment>
+`;
